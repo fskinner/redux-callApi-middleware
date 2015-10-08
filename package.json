@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/fskinner/redux-callApi-middleware/issues"
   },
-  "homepage": "https://github.com/fskinner/redux-callApi-middleware#readme"
+  "homepage": "https://github.com/fskinner/redux-callApi-middleware#readme",
+  "dependencies": {
+    "axios": "^0.7.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "eslint": "^1.6.0"
+  }
 }
