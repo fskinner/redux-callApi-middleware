@@ -1,0 +1,24 @@
+{
+  "name": "redux-callapi-middleware",
+  "version": "0.0.1",
+  "description": "Redux middleware for API calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fskinner/redux-callApi-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "api",
+    "middleware"
+  ],
+  "author": "Felipe Skinner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fskinner/redux-callApi-middleware/issues"
+  },
+  "homepage": "https://github.com/fskinner/redux-callApi-middleware#readme"
+}
